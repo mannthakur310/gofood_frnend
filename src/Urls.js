@@ -1,1 +1,0 @@
-export const baseurl=`https://gofood-bkend-5sey.onrender.com`;
